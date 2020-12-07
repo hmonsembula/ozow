@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ozow.Assessment.QuestionOne\Ozow.Assessment.QuestionOne.csproj" />
+    <ProjectReference Include="..\Ozow.Assessment.QuestionTwo\Ozow.Assessment.QuestionTwo.csproj" />
+  </ItemGroup>
+
+</Project>
